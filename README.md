@@ -1,2 +1,2 @@
 # hello-world
-classical helloWorld starter program. 
+Haggai Kaunda, a soccer lover. 
